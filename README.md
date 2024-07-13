@@ -52,7 +52,3 @@ To get started, download the required documents and follow the instructions prov
 
 We welcome contributions to improve our documentation. If you have any suggestions or improvements, please fork the repository, make your changes, and submit a pull request.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
